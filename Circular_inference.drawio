@@ -1,1 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2020-12-10T16:14:54.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57" version="14.0.0" etag="znK7DBNj5Ge5y7OuUW8Y" type="github"><diagram id="gsHMI7wYudKdyFLWg7R-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-10T16:36:33.035Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.57" etag="NpT4tevO_aLrbSCI6YBu" version="14.0.0" type="github">
+  <diagram id="gsHMI7wYudKdyFLWg7R-" name="Page-1">
+    <mxGraphModel dx="574" dy="370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-_2ycic4Zb3XH3Ta3Dnx-20" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-_2ycic4Zb3XH3Ta3Dnx-1" target="-_2ycic4Zb3XH3Ta3Dnx-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="165" y="50" />
+              <mxPoint x="165" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-_2ycic4Zb3XH3Ta3Dnx-1" value="Danger" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-_2ycic4Zb3XH3Ta3Dnx-10" value="" style="endArrow=classic;html=1;strokeColor=none;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="170" as="sourcePoint" />
+            <mxPoint x="170" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="110" y="120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-_2ycic4Zb3XH3Ta3Dnx-22" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.13;exitY=0.77;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-_2ycic4Zb3XH3Ta3Dnx-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="215" y="190" as="sourcePoint" />
+            <mxPoint x="215" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="165" y="212" />
+              <mxPoint x="165" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-_2ycic4Zb3XH3Ta3Dnx-19" value="Black car (CIA)" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-_2ycic4Zb3XH3Ta3Dnx-24" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.96;entryY=0.7;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" target="-_2ycic4Zb3XH3Ta3Dnx-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335" y="350" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="375" y="350" />
+              <mxPoint x="375" y="206" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-_2ycic4Zb3XH3Ta3Dnx-27" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.96;exitY=0.7;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="-_2ycic4Zb3XH3Ta3Dnx-1" target="-_2ycic4Zb3XH3Ta3Dnx-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="385" y="66" />
+              <mxPoint x="385" y="174" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-_2ycic4Zb3XH3Ta3Dnx-28" value="Danger --&amp;gt; Black car&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;black car --&amp;gt; Danger&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="25" y="100" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-_2ycic4Zb3XH3Ta3Dnx-36" value="Siren" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-_2ycic4Zb3XH3Ta3Dnx-37" value="MBlack car --&amp;gt; Siren" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="275" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-_2ycic4Zb3XH3Ta3Dnx-38" value="Black car --&amp;gt; Danger" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="110" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="-_2ycic4Zb3XH3Ta3Dnx-39" value="Siren --&amp;gt; Black car&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;Black car --&amp;gt; Siren&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="395" y="270" width="110" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
