@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-29T13:08:40.937Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.50 Safari/537.36" etag="WPlU4YbaoNL-YmiyVeb2" version="14.1.3" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-30T13:23:19.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="AohEB5jwSbXluCJMEWy8" version="14.1.4" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1550" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="574" dy="330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -82,7 +82,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="comparator_YKG" id="7I0tfkcJnB-OYojz-9vu">
-    <mxGraphModel dx="1550" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="957" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="C5h69nGyBoz5HR8xIqG7-0" />
         <mxCell id="C5h69nGyBoz5HR8xIqG7-1" parent="C5h69nGyBoz5HR8xIqG7-0" />
@@ -113,10 +113,8 @@
         <mxCell id="C5h69nGyBoz5HR8xIqG7-47" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#97D077;fontSize=13;curved=1;dashed=1;startArrow=none;startFill=0;shadow=0;" parent="C5h69nGyBoz5HR8xIqG7-1" source="C5h69nGyBoz5HR8xIqG7-24" target="C5h69nGyBoz5HR8xIqG7-43" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="340" y="185" />
-              <mxPoint x="340" y="135" />
-              <mxPoint x="450" y="135" />
-              <mxPoint x="450" y="185" />
+              <mxPoint x="400" y="185" />
+              <mxPoint x="400" y="185" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -185,7 +183,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IPKHFpnsx7aHATGj306r-0" value="&lt;b&gt;&lt;font style=&quot;font-size: 28px&quot;&gt;The comparator model&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="C5h69nGyBoz5HR8xIqG7-1" vertex="1">
-          <mxGeometry x="177" y="90" width="320" height="20" as="geometry" />
+          <mxGeometry x="250" y="80" width="320" height="20" as="geometry" />
         </mxCell>
         <mxCell id="IPKHFpnsx7aHATGj306r-1" value="&lt;font color=&quot;#cc0000&quot;&gt;sensory state&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=1;points=[];autosize=1;fontSize=13;imageAspect=0;resizeHeight=0;resizeWidth=0;imageWidth=24;imageHeight=24;container=0;" parent="C5h69nGyBoz5HR8xIqG7-1" vertex="1">
           <mxGeometry x="35" y="450" width="90" height="20" as="geometry" />
