@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-07T13:15:59.827Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="aM1tY78J6_3LotdOZPqc" version="14.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-07T13:17:20.594Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36 Edg/87.0.664.66" etag="EckzSuLIr_PoBf3Ms4zh" version="14.1.4" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="574" dy="370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -360,16 +360,11 @@
             <mxPoint x="105" y="441" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8R364otDGxmwaBQRQk76-43" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#009900;fillColor=#97D077;fontSize=13;exitX=0.486;exitY=1.046;exitDx=0;exitDy=0;exitPerimeter=0;" parent="C5h69nGyBoz5HR8xIqG7-1" target="8R364otDGxmwaBQRQk76-41" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="78.60000000000014" y="331.91999999999996" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="comparator_YKG" id="200xu7QWcIYhTyAZN9yd">
-    <mxGraphModel dx="574" dy="370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="574" dy="330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="C5h69nGyBoz5HR8xIqG7-0" />
         <mxCell id="C5h69nGyBoz5HR8xIqG7-1" parent="C5h69nGyBoz5HR8xIqG7-0" />
