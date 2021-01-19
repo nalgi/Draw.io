@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-19T17:31:51.301Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 Edg/87.0.664.75" etag="oR1jQQe2PhMmipGZYOKh" version="14.2.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-19T17:38:47.614Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 Edg/87.0.664.75" etag="xNPxCnF9sFuouIgu2VqJ" version="14.2.4" type="github">
   <diagram id="gM3WxqdrxTJoCj7wMOY4" name="Page-1">
     <mxGraphModel dx="675" dy="1535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -18,7 +18,7 @@
         <mxCell id="KWf4gQ6hkN5NAQR5kB0W-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Inverse model&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#99CCFF;" parent="1" vertex="1">
           <mxGeometry x="170" y="140" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KWf4gQ6hkN5NAQR5kB0W-6" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#99CCFF;" parent="1" edge="1">
+        <mxCell id="KWf4gQ6hkN5NAQR5kB0W-6" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#99CCFF;strokeColor=#6C8EBF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="159.5" as="sourcePoint" />
             <mxPoint x="400" y="159.5" as="targetPoint" />
@@ -91,7 +91,7 @@
         <mxCell id="TXO9nBIVQyYSXsEXwi95-3" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.uTurnArrow;dy=11;arrowHead=43;dx2=34.8;rotation=-90;perimeterSpacing=0;flipH=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="313" y="-249" width="248" height="484" as="geometry" />
         </mxCell>
-        <mxCell id="TXO9nBIVQyYSXsEXwi95-4" value="" style="shape=flexArrow;endArrow=classic;html=1;strokeColor=#6c8ebf;fillColor=#99CCFF;" parent="1" edge="1">
+        <mxCell id="TXO9nBIVQyYSXsEXwi95-4" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#99CCFF;strokeColor=#6C8EBF;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="39.999999999999886" y="160.00000000000023" as="sourcePoint" />
             <mxPoint x="170" y="160.00000000000023" as="targetPoint" />
