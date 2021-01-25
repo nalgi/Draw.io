@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T12:53:13.940Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.96 Safari/537.36" etag="9GsLABm7BcrWMNA3-cPz" version="14.2.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-01-25T16:52:29.740Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="_N5VNbH89uszdiAx7SxQ" version="14.2.7" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1550" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="comparator_Env" id="7I0tfkcJnB-OYojz-9vu">
-    <mxGraphModel dx="1550" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="1550" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="C5h69nGyBoz5HR8xIqG7-0" />
         <mxCell id="C5h69nGyBoz5HR8xIqG7-1" parent="C5h69nGyBoz5HR8xIqG7-0" />
@@ -98,7 +98,7 @@
         <mxCell id="C5h69nGyBoz5HR8xIqG7-54" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;endArrow=none;fillColor=#97D077;fontSize=15;endFill=0;strokeColor=#FF8000;fontColor=#E47200;" parent="C5h69nGyBoz5HR8xIqG7-1" source="C5h69nGyBoz5HR8xIqG7-22" target="C5h69nGyBoz5HR8xIqG7-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C5h69nGyBoz5HR8xIqG7-22" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;FORWARD PREDICTOR&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;fillColor=#FF8000;strokeColor=#666666;gradientColor=#3399FF;gradientDirection=north;rounded=1;arcSize=14;" parent="C5h69nGyBoz5HR8xIqG7-1" vertex="1">
+        <mxCell id="C5h69nGyBoz5HR8xIqG7-22" value="&lt;b style=&quot;font-size: 14px&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;FORWARD PREDICTOR&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;fillColor=#FF8000;strokeColor=#666666;gradientColor=#3399FF;gradientDirection=north;rounded=1;arcSize=14;" parent="C5h69nGyBoz5HR8xIqG7-1" vertex="1">
           <mxGeometry x="180" y="361" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="C5h69nGyBoz5HR8xIqG7-35" value="" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#97D077;fontSize=15;endArrow=none;endFill=0;fontColor=#0072E4;strokeColor=#0072E4;" parent="C5h69nGyBoz5HR8xIqG7-1" source="C5h69nGyBoz5HR8xIqG7-23" target="C5h69nGyBoz5HR8xIqG7-33" edge="1">
@@ -107,7 +107,7 @@
         <mxCell id="C5h69nGyBoz5HR8xIqG7-41" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#97D077;fontSize=13;strokeColor=#0072E4;" parent="C5h69nGyBoz5HR8xIqG7-1" source="C5h69nGyBoz5HR8xIqG7-23" target="C5h69nGyBoz5HR8xIqG7-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C5h69nGyBoz5HR8xIqG7-23" value="&lt;b&gt;Action &lt;br style=&quot;font-size: 14px&quot;&gt;Selection&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;rounded=1;gradientDirection=north;arcSize=14;fillColor=#3399FF;strokeColor=#0072E4;" parent="C5h69nGyBoz5HR8xIqG7-1" vertex="1">
+        <mxCell id="C5h69nGyBoz5HR8xIqG7-23" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;Action &lt;br style=&quot;font-size: 14px&quot;&gt;Selection&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;fontSize=14;strokeWidth=1;rounded=1;gradientDirection=north;arcSize=14;fillColor=#3399FF;strokeColor=#0072E4;" parent="C5h69nGyBoz5HR8xIqG7-1" vertex="1">
           <mxGeometry x="40" y="165" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gip8PEJv6s3xtZUmlmIq-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;fontColor=#3399FF;curved=1;dashed=1;strokeColor=#e47200;" parent="C5h69nGyBoz5HR8xIqG7-1" source="gip8PEJv6s3xtZUmlmIq-0" target="C5h69nGyBoz5HR8xIqG7-43" edge="1">
@@ -151,7 +151,7 @@
         <mxCell id="C5h69nGyBoz5HR8xIqG7-48" value="&lt;font style=&quot;font-size: 21px&quot; color=&quot;#e47200&quot;&gt;`s_{t+1}`&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=21;fontColor=#CC0000;" parent="C5h69nGyBoz5HR8xIqG7-1" vertex="1">
           <mxGeometry x="545" y="231" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="C5h69nGyBoz5HR8xIqG7-50" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;COMPARATOR&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;gradientDirection=north;fillColor=#FF8000;gradientColor=#3399FF;strokeColor=#666666;" parent="C5h69nGyBoz5HR8xIqG7-1" vertex="1">
+        <mxCell id="C5h69nGyBoz5HR8xIqG7-50" value="&lt;b style=&quot;font-size: 14px&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;COMPARATOR&lt;/font&gt;&lt;/b&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;glass=0;strokeWidth=1;shadow=0;gradientDirection=north;fillColor=#FF8000;gradientColor=#3399FF;strokeColor=#666666;" parent="C5h69nGyBoz5HR8xIqG7-1" vertex="1">
           <mxGeometry x="508" y="349" width="124" height="64" as="geometry" />
         </mxCell>
         <mxCell id="C5h69nGyBoz5HR8xIqG7-51" value="&lt;font&gt;`\hat{s}_{t+1}`&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=21;fontColor=#E47200;" parent="C5h69nGyBoz5HR8xIqG7-1" vertex="1">
